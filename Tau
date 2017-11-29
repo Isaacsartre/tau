@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>My Nebelung</title>
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
   </head>
   <body>
     <h1>My very Feisty Nebelung</h1>
@@ -9,7 +10,7 @@
     <p>I knew almost immediately I was going back home with this ball of fur, we blended almost immediately. You can learn more about Nebelung cats <a href="https://en.wikipedia.org/wiki/Nebelung">here</a>. To be continued.</p>
     <p>Here are a few of Tau's attributes.</p>
       <ul>
-        <li>Unwelcoming to strangers, especially short strangers.</li>
+        <li>Unwelcoming to strangers, especially <strong>short</strong> strangers.</li>
         <li>Very friendly to women.</li>
         <li>Open minded and willing to try out new ideas.</li>
         <li>Theist.</li>
